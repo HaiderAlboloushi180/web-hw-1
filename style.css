@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-wrap: wrap;
+}
+
+h2{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(69, 139, 81);
+}
+
+img{
+    width: 210px;
+}
+
+button{
+
+}
+
+.idkWhatToNameThis{
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
